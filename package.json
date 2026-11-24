@@ -1,0 +1,10 @@
+{
+  "name": "inhank-probe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Egress probe for Inhank Cloud free tier",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
